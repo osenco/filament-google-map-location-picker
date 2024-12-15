@@ -1,9 +1,9 @@
 {
-    "name": "yemenpoint/filament-google-map-location-picker",
+    "name": "osenco/filament-google-map-location-picker",
     "description": "Google map location picker for filament",
     "type": "library",
     "require": {
-        "filament/filament": "2.*"
+        "filament/filament": "^3.2"
     },
     "autoload": {
         "psr-4": {
@@ -14,6 +14,9 @@
         {
             "name": "yemenpoint",
             "email": "ebrahim29001@gmail.com"
+        }, {
+            "name": "Osen Concepts",
+            "email": "hi@osen.co.ke"
         }
     ],
     "extra": {
