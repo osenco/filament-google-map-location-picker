@@ -1,12 +1,12 @@
 # Google map Location Picker
-forked from https://packagist.org/packages/sadiq/filament-gmap-location-picker
+forked from https://packagist.org/packages/sadiq/filament-gmap-location-picker, updated to work with Filament >=3.0
 
 ## Installation
 
 You can install the package via composer:
 
 ```php
- composer require yemenpoint/filament-google-map-location-picker
+ composer require osenco/filament-google-map-location-picker
 ```
 
 Optionally, you can publish the config using
