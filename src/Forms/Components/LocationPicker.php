@@ -72,7 +72,7 @@ class LocationPicker extends Field
         return $this;
     }
 
-    public function getState()
+    public function getState(): mixed
     {
         $state = parent::getState();
 
