@@ -3,7 +3,7 @@
     "description": "Google map location picker for filament",
     "type": "library",
     "require": {
-        "filament/filament": "^3.2"
+        "filament/filament": "^4"
     },
     "autoload": {
         "psr-4": {
